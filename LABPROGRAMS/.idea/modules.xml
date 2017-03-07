@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gui/Gui.iml" filepath="$PROJECT_DIR$/Gui/Gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication4.iml" filepath="$PROJECT_DIR$/MyApplication4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarm/alarm.iml" filepath="$PROJECT_DIR$/alarm/alarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastrecevier/broadcastrecevier.iml" filepath="$PROJECT_DIR$/broadcastrecevier/broadcastrecevier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database/database.iml" filepath="$PROJECT_DIR$/database/database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glsurfaceview/glsurfaceview.iml" filepath="$PROJECT_DIR$/glsurfaceview/glsurfaceview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gps/gps.iml" filepath="$PROJECT_DIR$/gps/gps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layout_eventlistener/layout_eventlistener.iml" filepath="$PROJECT_DIR$/layout_eventlistener/layout_eventlistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/multithreading/multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rssfeed/rssfeed.iml" filepath="$PROJECT_DIR$/rssfeed/rssfeed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdcard/sdcard.iml" filepath="$PROJECT_DIR$/sdcard/sdcard.iml" />
+    </modules>
+  </component>
+</project>
